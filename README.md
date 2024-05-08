@@ -22,7 +22,7 @@
 <a href = "amauri_bessa@hotmail.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://github.com/asboliveira" target"_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://discord.com/channels/@me" target"blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>                      
-</div>
+
 
   
 <picture>
@@ -30,5 +30,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asboliveira/asboliveira/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asboliveira/asboliveira/output/github-contribution-grid-snake.svg">
 </picture>
-
-                     
+</div>
+             
